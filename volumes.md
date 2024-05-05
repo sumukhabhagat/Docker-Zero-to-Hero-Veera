@@ -61,3 +61,4 @@ in the container.
 
 Also, volumes can be created at any external sources as backup & can be attached/mounted to the host system of the docker container. Volumes lifecycle can be managed by docker cmds thu cli.
 Volumes are easy to share from one container to another container.
+Volumes are for high performance requirements w.r.t storage i.e for high i/o.
