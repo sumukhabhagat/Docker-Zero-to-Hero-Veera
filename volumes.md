@@ -60,3 +60,4 @@ a container, while volumes are better suited for more complex use cases where yo
 in the container.
 
 Also, volumes can be created at any external sources as backup & can be attached/mounted to the host system of the docker container. Volumes lifecycle can be managed by docker cmds thu cli.
+Volumes are easy to share from one container to another container.
